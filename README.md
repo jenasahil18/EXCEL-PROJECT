@@ -1,9 +1,5 @@
 # EXCEL-PROJECT
-**Fitness Tracker** is an Excel-based tool designed to log workouts, track nutrition, and monitor body measurements. It features customizable dashboards with automated calculations and progress charts, helping users visualize trends and stay motivated. Ideal for anyone looking to manage and optimize their fitness journey with ease.
 
-Here’s a 350-word description for a GitHub repository on a project named "Fitness Tracker":
-
----
 
 **Fitness Tracker** is a comprehensive Excel-based tool designed to empower users in managing, monitoring, and optimizing their fitness journey. Whether you're looking to build muscle, lose weight, or simply maintain a healthy lifestyle, this project offers an all-in-one solution to track your progress with precision and ease.
 
